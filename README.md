@@ -33,7 +33,6 @@ Welcome to the **Quran App** – a beautifully designed, high-performance applic
 
 ---
 
----
 
 ## 🙏 Contributing
 
