@@ -32,8 +32,6 @@ Welcome to the **Quran App** – a beautifully designed, high-performance applic
 - **Quran API**: A reliable source providing authentic Quranic text and translations to ensure accuracy and accessibility.
 
 ---
-
-
 ## 🙏 Contributing
 
 Contributions are welcome! Feel free to submit a pull request or report an issue. Together, let's make this app an enriching resource for the global Muslim community.
